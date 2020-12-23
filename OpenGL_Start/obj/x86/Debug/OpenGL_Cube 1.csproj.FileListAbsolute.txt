@@ -1,0 +1,32 @@
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\OpenGL_Start.exe
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\OpenGL_Start.pdb
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.OpenGl.dll
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.OpenGl.xml
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Start.Form1.resources
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Start.Properties.Resources.resources
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.CopyComplete
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Start.exe
+C:\Users\Denis\source\repos\OpenGL_Cube 1\OpenGL_Start\obj\x86\Debug\OpenGL_Start.pdb
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\OpenGL_Start.exe
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\OpenGL_Start.pdb
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.OpenGl.dll
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.OpenGl.xml
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csprojAssemblyReference.cache
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Start.Form1.resources
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Start.Properties.Resources.resources
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.GenerateResource.cache
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.CoreCompileInputs.cache
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Cube 1.csproj.CopyComplete
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Start.exe
+C:\Users\Aynazarov_RR\Desktop\Прочее\КГ\OpenGL_Cube 1 empty2\OpenGL_Start\obj\x86\Debug\OpenGL_Start.pdb
